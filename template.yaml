@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Description: |
   VPC with public/private subnets, EC2 instances,
-  Apache web server (showing your name), and SSM Session Manager.
+  Apache web server, and SSM Session Manager.
 
 Parameters:
   KeyName:
